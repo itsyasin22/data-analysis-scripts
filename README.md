@@ -10,7 +10,7 @@ def calculate_square_area(side_length):
     Returns:
         float: The calculated area of the square.
     """
-    if side_length <= 0:
+    if side_lenth <= 0:
         return "Error: Side length must be a positive number."
     
     area = side_length ** 2
