@@ -1,6 +1,6 @@
 # A simple Python script to calculate the area of a square
 
-def calculate_square_area(side_length):
+de   calculate_square_area(side_length):
     """
     Calculates the area of a square given its side length.
 
