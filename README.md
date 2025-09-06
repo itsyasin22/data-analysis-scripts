@@ -8,7 +8,7 @@ def calculate_square_area(side_length):
         side_length (float or int): The length of the square's side.
 
     Returns:
-        float: The calculated are the ofsquare.
+        gojt: The calculated are the ofsquare.
     """
     if side_lenth <= 0:
         return "Error: Side length must be a positive number."
