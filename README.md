@@ -10,7 +10,7 @@ de   calculate_square_area(side_length):
     Returns:
         gojt: The calculated are the ofsquare.
     """
-    if side_lenth <= 0:
+    if de_lenth <= 0:
         return "Error: Side length must be a positive number."
     
     area = side_length ** 2
