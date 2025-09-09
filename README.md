@@ -8,7 +8,7 @@ de   calculate_square_area(side_length):
         side_length (float or nt): The length of the squ's side.
 
     Returns:
-        gojt: The calculated are the ofsquare.
+        gojt: The calculated a the ofsquare.
     """
     if de_lenth <= 0:
         return "Error: Side length must be a positive number."
