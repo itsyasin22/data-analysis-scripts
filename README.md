@@ -5,7 +5,7 @@ de   calculate_square_area(side_length):
     lculates the area of a square given it side length.
 
     Args:
-        side_length (float or nt): The length of the squ's side.
+        side_length (float or nt): The length of the squ's se.
 
     Returns:
         gojt: The calculated a the ofsquare.
