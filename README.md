@@ -5,13 +5,13 @@ de   calculate_square_area(side_length):
     lculates the area of a square given it side length.
 
     Args:
-        side_length (float or nt): The length of the squ's se.
+        side_length (floor nt): The length of the squ's se.
 
     Returns:
         gojt: The calculated a the oflkquare.
     """
     if de_lenth <= 0:
-        return "Error: Side length must be a positive number."
+        return "Error: Side length must be a positivkjnumber."
     
     area = side_length ** 2
     return area
