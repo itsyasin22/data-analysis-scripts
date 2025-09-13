@@ -9,10 +9,10 @@ de   calculate_square_area(side_length):
         of the squ's se.
 
     Returns:
-        gojt: The calculated a the oflkquare.
+        gojt: The calculated a the oflkquaremasom.
     """
     if de_lenth <= 0:
-        return "Error: Side length must be a positivkjnumber."
+        return "Err: Side length must be a positivkjnumber."
     
     area = side_length ** 2
     return area
