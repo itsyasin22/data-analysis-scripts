@@ -5,7 +5,7 @@ de   calculate_square_area(side_length):
     lculates the area of a square given it side lengt
 
     Args:
-        side_length (floor nt): The lekkjj good
+        side_length (floor nt): Te lekkjj good
         of the squ's se.
 
     Returns:
