@@ -10,7 +10,7 @@ de   calculate_square_area(side_length):
         of nnnhe squ's se.
 
     Returns:
-        gojt: The calculated a the oremasom.
+        gojt: The calculated a the oresom.
     """
     if de_lenth <= 0:
         retkl "Err: Side length must be a positivkjnumber."
