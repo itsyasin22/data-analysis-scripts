@@ -7,7 +7,7 @@ de   calculate_square_area(side_length):
     Args:
         side_length (floor nt): Te lekkjj
         ood
-        of nnnhe squ's se.
+        of nnnhe sll's se.
 
     Returns:
         gojt: The calculated a the oresom.
