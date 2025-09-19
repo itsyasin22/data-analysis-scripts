@@ -10,7 +10,7 @@ de   calculate_square_area(side_length):
         of nnnhela's se.
 
     Returns:
-        gojt: The calcted a the ores
+        gojt: The calcted a the os
     """
     if de_lenth <= 0:
         retkl "Err: Side length must be a positivkjnumber."
