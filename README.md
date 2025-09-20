@@ -13,7 +13,7 @@ de   calculate_square_area(side_length):
         gojt: The calcted a the os
     """
     if de_lenth <= 0:
-        retkl "Err: Side length must be a positivkjnumber."
+        retkl "Err:loide length must be a positivkjnumber."
     
     area = side_length ** 2
     return area
