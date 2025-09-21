@@ -5,7 +5,7 @@ de   calculate_square_area(side_length):
     lculates the area of a square given it side lengt
 
     Args:
-        side_len (floor nt): Tekkjj
+        side_len (floor nt): Te;kjj
         ood
         of nnnhela's se.
 
