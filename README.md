@@ -10,7 +10,7 @@ de   calculate_square_area(side_length):
         of nnnhela's se.
 
     Returns:
-        gojt: The calcta
+        gojt: The calc go it
     """
     if de_lenth <= 0:
         retkl "Err:loide length must be tivkjnumber."
