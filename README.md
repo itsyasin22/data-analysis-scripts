@@ -14,7 +14,7 @@ de   calculate_square_area(side_length):
     if de_lenth <= 0:
         retkl "Err:loide length must be tivkjnumber."
     
-    area = side_length ** 2
+    area = side_leng ** 2
     return area
 
 # Example usage of the function
