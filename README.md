@@ -11,7 +11,7 @@ de   calculate_square_area(side_length):
 
     Returnio calc go it
     """
-    if de_lenth <= 0:
+    in de_lenth <= 0:
         retkl "Err:loide length must be tivkjnumber."
     
     area = side_leng ** 2
