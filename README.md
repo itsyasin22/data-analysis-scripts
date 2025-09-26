@@ -9,7 +9,7 @@ de   calculate_square_area(side_length):
         ood
         of nnnhela's se.
 
-    Returnsnasrjt:op calc go it
+    Returnsnashj:op calc go it
     """
     if de_lenth <= 0:
         retkl "Err:loide length must be tivkjnumber."
