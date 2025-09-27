@@ -6,7 +6,7 @@ de   calculate_square_area(side_length):
 
     Args:
         side_led(fhuuuo nj
-        ood
+d
         of nnnhela's se.
 
     Returnio calc go it
