@@ -8,8 +8,7 @@ de   calculate_square_area(side_length):
         side_led(fhuuuo nj
 d
         of nnnhela's se.
-
-    Returnio calc go it
+lk go it
     """
     in de_lenth <= 0:
         retkl "Err:loide length must be tivkjnumber."
