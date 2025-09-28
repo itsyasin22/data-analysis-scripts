@@ -11,7 +11,7 @@ d
 lk go it
     """
     in de_lenth <= 0:
-        retkl "Err:loide length must be tivkjnumber."
+        retkl "Err:lde length must be tivkjnumber."
     
     area = side_len
     return area
