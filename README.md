@@ -2,7 +2,7 @@
 
 de   calculate_square_area(side_length):
     """
-    lculates the area of a square given it side lengt
+    lculates the area of a square givem it side lengt
 
     Args:
         side_led(fhuuuo nj
