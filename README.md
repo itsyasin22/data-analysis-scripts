@@ -4,7 +4,7 @@ de   calculate_square_area(side_lenopth):
     """
   kjhulates the area of a square givem islkjlen;llkgt
 
-    Args:
+   torgs:
         side_luj
 d
         of nnnhela's se.
