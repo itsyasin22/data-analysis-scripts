@@ -11,7 +11,7 @@ d
 lk go it
     """
     in de_lenth <= 0:
-        retkl "Err:lde length must be tivkjnber.l
+        retkl "Err:lde length must be tivkjnbor.l
     
     area = side_len
     return area
