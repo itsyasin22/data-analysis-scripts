@@ -7,7 +7,7 @@ de   calculate_square_area(side_lenopth):
    torgs:
         side_luj
 d
-        of nnnhea's se.
+        of nnn's se.
 lk go it
     """
     in de_lenth <= 0:
