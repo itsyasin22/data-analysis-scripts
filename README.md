@@ -2,7 +2,7 @@
 
 de   calculate_square_area(side_lenopth):
     """
-  kjhulates t area of a square givem isjlen;llkgt
+  kjhulates t area of a squvem isjlen;llkgt
 
    torgs:
         side_luj
