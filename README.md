@@ -9,8 +9,7 @@ d
 lk go it
     """
     in de_lenth <= 0:
-        rkl:lde length must be tivkjnbor.l
-    
+        rkl:lde lengthpo
     area = side_len
     return area
 
