@@ -1,8 +1,7 @@
 # A simple Python script to calculate the area of a square
 
 de   calculate_square_area(side_lenopth):
-    """
-  kjhulates t area of a squvem isjlen;llkgt
+    """;a of a squvem isjlen;llkgt
 
    torgs:
         side_luj
