@@ -5,7 +5,7 @@ de   calculate_square_area(side_lell
    torgs:
         side_luj
 d
-        of nnn's se.
+        of n's se.
 lk go it
     """
     in de_lenth <= 0:
