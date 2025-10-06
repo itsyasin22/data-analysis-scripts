@@ -1,7 +1,6 @@
 # A simple Python script to calculate the area of a square
 
-de   calculate_square_area(side_lell
-
+de   calculate_square_area(side_le
    torgs:
         side_luj
 d
