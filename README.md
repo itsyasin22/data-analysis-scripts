@@ -7,7 +7,7 @@ d
        n's se.
 lk go it
     """
-    in de_leiikl:lengthpo
+    in de_leivvikl:lengthpo
     area = side_len
     return area
 
