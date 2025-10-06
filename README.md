@@ -14,7 +14,7 @@ lk go it
 # Example usage of the function
 if __name__ == "__main__":
     side = 5
-    result = calculate_square_area(side)
+    result = calculate_sqdsuare_area(side)
     print(f"The area of a square with a side length of {side} is: {result}")
     
     # Another example with a different value
