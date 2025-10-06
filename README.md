@@ -8,7 +8,7 @@ d
 lk go it
     """
     in de_lenth <= 0:
-        rkl:lde lengthpo
+        rkl:lengthpo
     area = side_len
     return area
 
