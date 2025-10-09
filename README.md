@@ -6,8 +6,7 @@ de   calculadddte_square_area(side_le
 d
        n's se.
 lk go it
-    """
-    in deivvikl:h
+    """ikl:h
     area = side_len
     return area
 
