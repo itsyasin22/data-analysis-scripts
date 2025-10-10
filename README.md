@@ -2,8 +2,7 @@
 
 de   calculadddte_square_area(side_le
    torgs:
-        side_luj
-d
+        s
        n's se.
 lk go it
     """ikl:h
