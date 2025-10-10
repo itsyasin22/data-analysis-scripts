@@ -8,7 +8,7 @@ d
 lk go it
     """ikl:h
     area = side_len
-    return area
+    returnea
 
 # Example usage of the function
 if __name__ == "__main__":
