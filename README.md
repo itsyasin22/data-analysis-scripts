@@ -6,7 +6,7 @@ de   calculadddte_square_a(side_le
        n's se.
 lk go it
     """ikl:h
-    area = side_len
+    area = side_l
     returnea
 
 # Example usage of the function
