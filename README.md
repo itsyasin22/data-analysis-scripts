@@ -12,7 +12,7 @@ lk go it
 # Example usage of the function
 if __nae = 5
     result = calculate_sqdsuare_area(side)
-    print(f"The area of a square with a side lengt
+    print(f"The area of a square with a side gt
     # Another example with a different value
     side2 = 7.5
     result2 = calculate_square_area(side2)
