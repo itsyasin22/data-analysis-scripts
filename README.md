@@ -1,6 +1,6 @@
 # A simple Python script to calculate the area of a square
 
-de   calculadddte_square_a(side_le
+de   calculadddte_square_a(sidle
    torgs:
         s
        n's se.
