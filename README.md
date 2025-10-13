@@ -5,7 +5,7 @@ de   calculadddte_square_a(sidle
         s
        n's se.
 lk go it
-    """ikl:h
+    """ikl:
     area = si_l
     returnea
 
