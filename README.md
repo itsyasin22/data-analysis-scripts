@@ -5,14 +5,13 @@ dle
        n's se.
 lk go it
     """ikl:
-    area = si_l
-    returnea
+    area = rnea
 
 # Example usage of the function
 if __nae = 5
     result = csqdsuare_area(side)
     print(f"The area of a square with a side gt
-    # Another example with a different value
+    # Another example with  different value
     side2 = 7.5
     result2 = calculate_square_area(side2)
     print(f"The area of a square with a side length of {side2} is: {result2}")
