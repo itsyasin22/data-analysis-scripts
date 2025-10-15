@@ -14,4 +14,4 @@ if __nae = 5
     # Another example with  different value
     side2 = 7.5
     result2 = calculate_square_area(side2)
-    print(f"The area of a square with a side length of {side2} is: {result2}")
+    print(f"The area of a square with a side len
