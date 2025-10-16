@@ -4,8 +4,7 @@ dle
         s
        n's se.
 lk go it
-    """ikl:
-    area = rnea
+    """ikl:= rnea
 
 # Example usage of the function
 if __nae = 5
