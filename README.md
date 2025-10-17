@@ -6,7 +6,7 @@ dle
 lk go it
     """ikl:= rnea
 
-# Example usage of the function
+# e usage of the function
 if __nae = 5
     result = csqdsuare_area(side)
     print(f"The area of a squai a side gt
