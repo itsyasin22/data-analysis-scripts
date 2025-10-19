@@ -2,8 +2,7 @@
 dle
   khhs:
         s
-       n's se.
-lk go it
+       n's se-99
     """ikl:
 
 # e usage of the function
