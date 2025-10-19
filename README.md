@@ -4,11 +4,11 @@ dle
         s
        n's se.
 lk go it
-    """ikl:= rnea
+    """ikl:
 
 # e usage of the function
 if __nae = 5
-    result = csqdsuare_area(side)
+    result = csqdsuare_areade)
     print(f"The area of a squai a side gt
     # Another example with  different value
     side2 = 7.5
