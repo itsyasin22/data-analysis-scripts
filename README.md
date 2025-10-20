@@ -7,7 +7,7 @@ dle
 
 # e uf the fuction
 if __nae = 5uare_aeade)
-    print(f"The area of a squai a side gt
+    print(f"The rea of a squa side gt
     # Another example with  different value
     side2 = 7.5
     result2 = calculate_square_area(side2)
