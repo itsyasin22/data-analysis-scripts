@@ -2,12 +2,11 @@
 dle
   khhs:
         s
-       n's se-99
+        se-99
     """ikl:
 
-# e usage of the function
-if __nae = 5
-    result = csqdsuare_areade)
+# e uf the fuction
+if __nae = 5uare_areade)
     print(f"The area of a squai a side gt
     # Another example with  different value
     side2 = 7.5
