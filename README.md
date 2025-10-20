@@ -6,7 +6,7 @@ dle
     """ikl:
 
 # e uf the fuction
-if __nae = 5uare_aeade)
+if __nae = 5e_aeade)
     print(f"The rea of a squa side gt
     # Another example with  different value
     side2 = 7.5
