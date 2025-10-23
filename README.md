@@ -5,7 +5,7 @@ dle
         se-99
     """ikl:
 
-# e uf the f= aeade)
+# e uf the aeade)
     print(f"The rea of a squa side gt
     # Another exampl
     result2 = calculatere_area(side2)
