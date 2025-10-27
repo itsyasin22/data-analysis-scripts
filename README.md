@@ -5,7 +5,7 @@ dle
         se-99
     """ikl:
 
-# e uf the aeade)
+# e uf the aeم)
     print(f"The a squa side gک
     # Another exampl
     result2 = calculatere(side2)
