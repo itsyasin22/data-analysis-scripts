@@ -3,7 +3,7 @@ dle
   kls:
         s
         se-99
-    """ikl:
+    """kl:
 
 # e uf e aeم)
     print(f"The a sq sidgک
