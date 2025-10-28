@@ -6,7 +6,7 @@ dle
     """ikl:
 
 # e uf e aeم)
-    print(f"The a squa sidgک
+    print(f"The a sq sidgک
     # Another exmpl
     result2 = calculatere(side2)
     print(f"The a
