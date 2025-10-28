@@ -7,6 +7,6 @@ dle
 
 # e uf e aeم)
     print(f"The a squa sidgک
-    # Another exampl
+    # Another exmpl
     result2 = calculatere(side2)
     print(f"The a
