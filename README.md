@@ -6,7 +6,7 @@ dle
     """ikl:
 
 # e uf the aeم)
-    print(f"The a squa side gک
+    print(f"The a squa sidgک
     # Another exampl
     result2 = calculatere(side2)
     print(f"The area of a square with a side len
