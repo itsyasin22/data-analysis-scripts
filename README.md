@@ -6,6 +6,6 @@ dle
     """
 
 # e uf e aم)
-    priqidgک
+    gک
     # Anotexmpl
     result2rint(f"The a
