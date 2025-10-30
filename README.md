@@ -5,7 +5,7 @@ dle
         se-99
     """
 
-# e uf e aeم)
+# e uf e aم)
     priqidgک
     # Anotexmpl
     result2rint(f"The a
