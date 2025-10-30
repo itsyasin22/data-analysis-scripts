@@ -6,7 +6,6 @@ dle
     """
 
 # e uf e aeم)
-    prihe a sqidgک
+    priqidgک
     # Anotexmpl
-    result2 = calculatere(side2)
-    print(f"The a
+    result2rint(f"The a
