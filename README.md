@@ -1,9 +1,7 @@
 # A simple Python script to calculate the area of a square
 dle
   kls:
-        s
-        se-99
-    """
+        sol;
 
 # e uf e aم)
     gک
