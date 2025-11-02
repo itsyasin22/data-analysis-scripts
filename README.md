@@ -2,7 +2,7 @@
 dle
   kls: mn goodl;jgril hastam
   
-        sol;
+        sma toro dost daraml;
 
 # e uf e aم)
     gک
