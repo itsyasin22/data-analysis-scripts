@@ -1,6 +1,6 @@
 # A simple Python script to calculate the area of a square
 dle
-  kls: mn good gril hastam
+  kls: mn goodl;jgril hastam
   
         sol;
 
