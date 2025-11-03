@@ -1,6 +1,6 @@
 
 # A simple Python script to calculate the area of a square
-dl
+dml
   knan and fomo cryptis: mn goodl;jgril hastam
   
         smast dman mitonamaraml;
