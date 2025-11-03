@@ -2,7 +2,7 @@
 dle
   knan and fomo cryptis: mn goodl;jgril hastam
   
-        smast daraml;
+        smast dman mitonamaraml;
 
 # e uf e aم)
     gک
