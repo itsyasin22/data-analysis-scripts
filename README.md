@@ -4,7 +4,7 @@ dml
   knan and fomo cryptis: mn goodl;jgril hastam
   
         smast dman mitonamaraml;
-        gahi na ana donys entori nmimona
+        gahi a ana donys entori nmimona
 donya avalin eshgh mno bordi
 # e uf e aم)
     gک
