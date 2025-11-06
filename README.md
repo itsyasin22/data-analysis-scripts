@@ -3,7 +3,7 @@
 dml
   knikn anlk fkjmo cryptis: mn gool;jgril lkjast;om
   
-        smast dman mitonamaraml;
+        smast dman itonamaraml;
         gahi a ana donys entori nmimona
 donya avalin eshgh mno bordi
 # e uf e aم)
