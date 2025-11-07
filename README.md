@@ -5,7 +5,7 @@ dml
   
         smast dman itonamaraml;
         gahi a ana donys entori nmimona
-donya avalin eshgh mno bordi
+donya an eshgh mno bordi
 # e uf e aم)
     gک
     # Anotexmpl
