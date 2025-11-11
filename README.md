@@ -3,7 +3,7 @@
 dml
   knikn anlk fkjmopismn gool;jgril lkjast;om
   
-        smast dmanma toro dost daram itoamaraml;
+        smast dmanma toro dost darak itoamaraml;
         gahi a ana donys entori nmimona
 donya an eshgh mno bordi
 # e uf e aم)
