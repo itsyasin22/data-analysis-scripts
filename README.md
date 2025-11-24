@@ -4,7 +4,7 @@ dml
   knikn a'lk f;kjgfopisn g;;llrilk;om
   
         smost dmanm toro dot[daak itmaraml;
-        gahi a an dols ent nmina
+        gahi a an dol ent nmina
 donya an eshgh mno bordi
 # e uf e aم)
     gک
