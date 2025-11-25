@@ -5,7 +5,7 @@ dml
   
         smost dmanm tordot[daak itmaraml;
         gahi a an dol ent nmina
-donya an eshgh mno bordi
+donya an eshgh mno ordi
 # e uf e aم)
     gک
     # Anotexmpl
