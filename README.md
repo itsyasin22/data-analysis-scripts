@@ -4,7 +4,7 @@ dml
   knikn a'lk f;kjgfopisn g;;llrilk;om
   
         smost dmanm tordot[daak imaraml;
-        gahi a an dol ent nmina
+        gahi a an dol et nmina
 donya an eshgh mno ordi
 # e uf e aم)
     gک
