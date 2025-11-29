@@ -3,7 +3,7 @@
 dml
   knikn a'lk f;kjgfopsn g;;llrik;o
   
-        smost dmanm tordaak imaraml;
+        smost dmanm tordaa imaraml;
         gahi a an dol etnmina
 donya an eshgh mno ordi
 # e uf e aم)
