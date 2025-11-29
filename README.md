@@ -3,7 +3,7 @@
 dml
   knikn a'lk f;kjgfopsn g;;llrik;o
   
-        smost dmanm tordaa imama raml;
+        smost a want you manm tordaa imama raml;
         gahi a an dol etnmina
 donya an eshgh mno ordi
 # e uf e aم)
