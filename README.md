@@ -3,7 +3,7 @@
 dml
   knikn a'lk f;kjgfik;o
   
-        smosa wanyou mam tm r
+        sma wanyou mam tm r
         gahi a an dol enmina
 donya an eshgh mno ordi
 # e uf e aم)
