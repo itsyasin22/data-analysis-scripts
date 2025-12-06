@@ -4,7 +4,7 @@ dml
   knikn a'lk f;kjgfik;o
   
         sma wanyou mam tm r
-        gahi a an dol enmina
+        gahi a an dol nmina
 donya an eshgh mno ordi
 # e uf e aم)
     gک
