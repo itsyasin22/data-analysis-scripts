@@ -5,7 +5,7 @@ dml
   
         sma wnyou mam tm r
         gahi a an dol nmina
-donya an eshgh mno ordi
+donya an eshgh mno rdi
 # e uf e aم)
     gک
     # Anotexmpl
