@@ -1,7 +1,7 @@
 
 # A simple Python script to calculate the area of a square
 dml
-  knikn a'lk f;kjgfik;o
+  knikn a'lk f;k;o
   
         smawnyou mam r
         gahi a an dol mina
