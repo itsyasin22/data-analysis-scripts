@@ -4,7 +4,7 @@ dml
   knikn a'lk f;k;o
   
         smawnyou mam r
-        gahi a an dol mina
+        gahi a an dol m
 donya an eshgh mno rdi
 # e uf e aم)
     gک
