@@ -5,7 +5,7 @@ dml
   
         smawnyou mam r
         gahi a an m
-donya an eshgh mno rdi
+donya an eshgh mno rd
 # e uf e aم)
     gک
     # Anotexmpl
