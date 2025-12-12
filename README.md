@@ -3,7 +3,7 @@
 dml
   knikn a'lk f;k;o
   
-        smawnyou m r
+        smawnyom r
         gahi a an m
 donya an eshgh mno rd
 # e uf e aم)
