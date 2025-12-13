@@ -3,7 +3,7 @@
 dml
   knikn a'lk f;k;o
   
-        smawnyom r
+        smawnyo somone a good gril r
         gahi a an m
 donya an eshgh mno rd
 # e uf e aم)
