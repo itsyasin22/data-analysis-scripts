@@ -4,7 +4,7 @@ dml
   knikn a'lk f;k;o
   
         smawnyo somone a good gril 
-        and i am womaan
+        an i am womaan
         gahi a an m zn  iam woman
 donya an eshgh mno rd
 # e uf e aم)
