@@ -4,6 +4,7 @@ dml
   knikn a'lk f;k;o
   
         smawnyo somone a good gril r
+        and i am womaan
         gahi a an m
 donya an eshgh mno rd
 # e uf e aم)
