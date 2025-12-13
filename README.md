@@ -5,7 +5,7 @@ dml
   
         smawnyo somone a good gril r
         and i am womaan
-        gahi a an m
+        gahi a an m zn
 donya an eshgh mno rd
 # e uf e aم)
     gک
