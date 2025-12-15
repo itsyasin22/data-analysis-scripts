@@ -3,7 +3,7 @@
 dml
   knikn a'lk f;k;o
   
-        smawnyo somone a good gril 
+        smawnyo somone a god gril 
         an i am womaan
         gahi a an m n  m woman
 donya an eshgh mno d
