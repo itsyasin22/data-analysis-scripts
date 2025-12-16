@@ -5,7 +5,7 @@ dml
   
         snyo somone a god ril 
         an i am womaan
-        gahi a an m n  m woman
+        gahi a a m n  m woman
 donya an eshgh mno d
 # e uf e aم)
     gک
