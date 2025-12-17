@@ -3,7 +3,7 @@
 dml
   knikn a'lk f;k;o
   
-        snyo somone a god il 
+        snyo somone a god i 
         an i am womaan
         gahi a a m n  m woman
 donya an eshgh mno d
