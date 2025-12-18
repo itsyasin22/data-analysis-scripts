@@ -1,6 +1,5 @@
 
-# A simple Python script to calculate the area of a square
-dml
+# A simple Python script to 
   knikn a'lk f;k;o
   
         snyo somone a god i 
