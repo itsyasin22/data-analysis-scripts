@@ -4,7 +4,7 @@
   
         snyo somone a go
         an i am womaan
-        gahi a a m n  oman
+        gahi a a m n an
 donya an eshgh mno d
 # e uf e aم)
     gک
