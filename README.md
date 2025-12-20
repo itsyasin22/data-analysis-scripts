@@ -5,7 +5,7 @@
         snyo somone a go
         an i am womaan
         gahi a a n an
-donya an eshgh mno d
+donya an eshgh mo d
 # e uf e aم)
     gک
     # Anotexmpl
