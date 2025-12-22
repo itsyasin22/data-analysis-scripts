@@ -3,7 +3,7 @@
   knikn a'lk f;k;o
   
         snyo se a 
-        an i am womaan
+        an i am omaan
         gahi a a 
 donya an eshgh mo d
 # e uf e aم)
