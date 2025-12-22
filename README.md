@@ -4,7 +4,7 @@
   
         snyo sne a 
         an i am womaan
-        gahi a a nn
+        gahi a a 
 donya an eshgh mo d
 # e uf e aم)
     gک
