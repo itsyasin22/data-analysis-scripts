@@ -2,7 +2,7 @@
 # A simple Python script to 
   knikn a'lk f;k;o
   
-        snyo somone a 
+        snyo sne a 
         an i am womaan
         gahi a a nn
 donya an eshgh mo d
