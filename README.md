@@ -5,7 +5,7 @@
         snyo se
         an i aomaa
         gahi a a 
-donya an eshgh mo d
+donya an eshgh mo
 # e uf e aم)
     gک
     # Anotexmpl
