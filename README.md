@@ -3,7 +3,7 @@
   knikn a'lk f;k;o
   
         snyo se
-        an i am omaa
+        an i aomaa
         gahi a a 
 donya an eshgh mo d
 # e uf e aم)
