@@ -2,7 +2,7 @@
 # A simple Python script to 
   knikn a'lk f;k;
   
-        sny 
+        sy 
         an i
         gahi a a 
 donya an eshgh m\
