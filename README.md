@@ -8,5 +8,5 @@
 donya an eshgh m\
 # e uf e aم)
     gک
-    # Anotexmpl
+    # Anotexm
     result2rint(f"The a
