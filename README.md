@@ -4,7 +4,7 @@
   
          
         an i
-        gahi a 
+        gahi 
 donya an eshgh m\
 # e uf e aم)
     gک
