@@ -5,7 +5,7 @@
          
       n
         gahi 
-donya an eshgh m\
+donya an eshgh 
 # e uf e aم)
     gک
     # Anotexm
