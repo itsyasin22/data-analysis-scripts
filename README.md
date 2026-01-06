@@ -5,7 +5,7 @@
          
       n
         ga
-donya an eshgh 
+donya an esgh 
 # e uf e aم)
     gک
     # Anotexm
