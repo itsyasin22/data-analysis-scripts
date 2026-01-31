@@ -1,6 +1,6 @@
 
 # A simple Python script to 
-  knikn a'k 
+  knikn a' 
   
          
      
