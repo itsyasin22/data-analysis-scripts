@@ -1,5 +1,5 @@
 
-# A simple Python script to 
+# A simple Python script o 
   knikn  
   
          
