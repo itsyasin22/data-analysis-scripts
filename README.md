@@ -1,6 +1,6 @@
 
 # A simple Python script o 
-  knikn  
+  kni
   
          
      
