@@ -1,5 +1,5 @@
 
-# A simple Python script o 
+# A simple Python script 
   kni
   
          
