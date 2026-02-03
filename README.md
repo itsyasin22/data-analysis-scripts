@@ -1,6 +1,6 @@
 
 # A simple Python script 
-  kni
+  k
   
          
      
