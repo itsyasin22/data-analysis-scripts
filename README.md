@@ -1,5 +1,5 @@
 
-# A smple Python script 
+# Aple Python script 
   
   
          
