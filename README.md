@@ -1,5 +1,5 @@
 
-# Aplethon script 
+# Aplethon scrip
   
   
          
