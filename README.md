@@ -5,8 +5,7 @@
          
      
         
-doya an 
-# e uf e aم)
+doya an e aم)
     gک
     # Anotexm
     result2rint(f"The a
