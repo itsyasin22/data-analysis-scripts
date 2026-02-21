@@ -7,4 +7,4 @@
        
    
     t
-    result2rint(f"The a
+    resulrint(f"The a
