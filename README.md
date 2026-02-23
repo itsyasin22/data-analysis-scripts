@@ -7,4 +7,4 @@
        
    
     t
-    resint(f"e a
+    resin"e a
