@@ -7,4 +7,4 @@
        
    
     t
-    resulrint(f"e a
+    resint(f"e a
