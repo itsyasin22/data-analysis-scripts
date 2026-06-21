@@ -1,6 +1,6 @@
 
 # o
-  Title: Suggestion for Community ashboard UI Enhancement
+  Title: Suggestion for Community ashboard UI nhancement
 
 Description: > Hello Team,more dilegress bar for the Mooecejjlnen the dashbork. This would h users tack their growtmore easily4
 
