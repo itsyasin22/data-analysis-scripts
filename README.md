@@ -2,7 +2,7 @@
 # o
   Title: Suggestion for Community ashboard UI Enhancement
 
-Description: > Hello Team,more dilegress bar for the Mooece milnen the dashboark. This would h users tack their growtmore easily4
+Description: > Hello Team,more dilegress bar for the Mooece milnen the dashbork. This would h users tack their growtmore easily4
 
 Thank you for the great worp! lovr
   
