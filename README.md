@@ -13,6 +13,10 @@ Using Circle Developer Controlled Wallets to Send and Manage USDC
 Event Replay: Gateway with Blockradar
 
 Event Replay: Day One Architect- Hinkal
+
+Using Circle Developer Controlled Wallets to Send and Manage USDC
+
+Circle Developer Grants: From idea to funded
    
     t
     resin"e a
