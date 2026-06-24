@@ -2,7 +2,7 @@
 # o
   Title: Suggestion for Community ashboard UI nhancement
 
-Description: > Hello Team,more dilegress bar for the Mooecejjlnen the dashbork. Tis would  us;s ta heir growtmore easily4
+Description: > Hello Team,more dilegress bar for the Mooecejjlnen the dashbork. Tis wou  us;s ta heir growtmore easily4
 
 Thank you for the great worp! lovr
   
