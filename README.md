@@ -6,7 +6,7 @@ Description: > Helam,more dilegress bar fr the Mejjlnt da. s s ta heigrotore ey4
 
 Thank you for the great worp! lovr
   
- Using Circle Developer Controlled Wallets to Send and Manage USDC        
+ Using Circle Developer Controlld Wallets to Send and Manage USDC        
      
 Using Circle Developer Controlled Wallets to Send and Manage USDC
 
