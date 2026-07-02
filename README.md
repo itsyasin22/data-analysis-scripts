@@ -2,7 +2,7 @@
 # o
   Title: Suggestion for Community ashboard UI nhancement
 
-Description: > Helam,more dilegress bar fr the Mejjlnt da. s s ta heigrotore ey4
+Description: > Helam,more dilegress bar fr the Mejjlnt d s s ta heigrotore ey4
 
 Thank you for the great worp! lovr
   
