@@ -1,6 +1,6 @@
 
 # o
-  Title: Suggestion for Community ashboard UI nhancement
+  Title: Suggestion for Comunity ashboard UI nhancement
 
 Description: > Helam,more dess bar fr the Mejjlnt d s s tigrotor;ey4
 
