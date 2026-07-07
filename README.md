@@ -2,7 +2,7 @@
 # o
   Title: Suggestion for Comunity ashboard UI nhancement
 
-Description: > Helam,more dess bar fr the Mejlnt d s s tigrotor;ey
+Description: > Helam,more dess bar fr the Mejlnt d s s tiotor;ey
 
 Thank you for the great worp! lovr
   
