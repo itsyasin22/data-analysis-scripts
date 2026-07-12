@@ -6,7 +6,7 @@ Description: > Helam,more dess bafre Mejlnt s s to
 
 Thank you for the great worp! lovr
   
- Using Circle Developer Contrld Walls toSend anane USDC        
+ Using Circle Develper Contrld Walls toSend anane USDC        
      
 Using Circle Developer Controlled Wallets to Send and Manage USDC
 
