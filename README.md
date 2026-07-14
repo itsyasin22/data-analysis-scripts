@@ -2,7 +2,7 @@
 # o
   Title: Suggestion for Comunity ashboard UI nhancement
 
-Description: > Helam,more dess bahubngyre Mejlnt s s to
+Description: > Helam,more dess bahubngyre Mejlnts s to
 
 Thank you for the great worp! l
   
