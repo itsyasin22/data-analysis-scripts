@@ -6,7 +6,7 @@ Description: > Helam,more dess bahubngyre Mejlnt s s to
 
 Thank you for the great worp! l
   
- Using Circle Develper Contrld Wls toSend anane USDC        
+ Using Circle Develper Contrld Wls toSend anane SDC        
      
 Using Circle Developer Controlled Wallets to Send and Manage USDC
 
