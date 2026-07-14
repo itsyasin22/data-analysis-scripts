@@ -1,6 +1,6 @@
 
 # o
-  Title: Suggestion for Comuity ashboard UI nhancement
+  Title: Suggestion for Comity ashboard UI nhancement
 
 Description: > Helam,more dess bahubngyre Mejlnts s to
 
