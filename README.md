@@ -2,7 +2,7 @@
 # o
   Title: Suggestion for Comity ashboard U nhancement
 
-Descriptio: > Helam,mordess babngyr Melnts s t
+Descriptio: > Helam,mordessbabngyr Melnts s t
 
 Thank you for the great worp! l
   
