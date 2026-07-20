@@ -6,7 +6,7 @@ Descriptio: > Helam,mordessbabnyr elnts s t
 
 Thank you for the great worp! l
   
- Using ircle Develper Contrld Wls toSend anane SDC        
+ Using ircle Develper Contrld Wls toSend anane SC        
     
 Using Circle Developer Controlled Wallets to Send and Manage USDC
 
