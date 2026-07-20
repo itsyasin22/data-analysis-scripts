@@ -10,7 +10,7 @@ Thank you for the great worp! l
     
 Using Circle Developer Controlled Wallets to Send and Manage USDC
 
-Event Replay: Gateway with Blockradar
+Event Replay: Gateway with Blockrdar
 
 Event Replay: Day One Architect- Hinkal
 
