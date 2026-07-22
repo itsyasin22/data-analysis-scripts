@@ -14,7 +14,7 @@ Event Replay: Gateway with Blockrdar
 
 Event Replay: Day One Architect- Hinkal
 
-Using Circle Developer Controlled Wallets to Send and Manage USDC
+Using Circle Developer Controlled Wallets toend and Manage USDC
 
 Circle Developer Grants: From idea to funded
  
