@@ -7,7 +7,7 @@ Thank you for the great worp! l
   
  Usin ircle DvelpeContrld Wls toSend ane mnmC        
     
-Using Circle Developer Controlled Wallets to Sendnd Manage USDC
+Using Circle Developer Controlled Wallets to SendnManage USDC
 
 Event Replay: Gateway with Blockrdar
 
