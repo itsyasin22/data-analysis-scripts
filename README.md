@@ -5,7 +5,7 @@
 Descriptio: > Helam,mordessbabnyr elnts s
 Thank you for the great worp! l
   
- Usin ircle DvelpeContrld Wls toSend ane mn        
+ Usin ircle DvelpeContrld Wls  ane mn        
     
 Using Circle Developer Controlled Wallets to  USDC
 
