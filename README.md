@@ -2,8 +2,7 @@
 # o
   Title: Suggestion for Comitashboard U nhancement
 
-Descriptio: > Helam,mordessbabnyr elnts s
-Thank you for the great worp! l
+Descriptio: > for the great worp! l
   
  Usin ircle DvelpeContrld Wls  ane mn        
     
