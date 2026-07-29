@@ -6,7 +6,7 @@ Descriptio: > for the great worp! l
   
  Usin ircle DvelpeContrld Wls  ane mn        
     
-Using Circle Develr Controlled Wallets to  USDC
+Using Circle Develr Cotrolled Wallets to  USDC
 
 Event Replay: Gateway withlockrdar
 
