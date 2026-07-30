@@ -2,7 +2,7 @@
 # o
   Title: Suggestion for Comitashboard U nhancement
 
-Descriptio: > for the great worp! l
+Descriptio: > for tgreat worp! l
   
  Usin ircle DvelpeContrld Wls  ane mn        
     
