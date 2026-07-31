@@ -8,7 +8,7 @@ Descriptio: > for tgreat wp! l
     
 Using Circle Develr Cotrolled Wallets to  USDC
 
-Event Replay: Gateway withlockrdar
+Event Relay: Gateway withlockrdar
 
 Event Replay: Day One Architect- Hinkal
 
