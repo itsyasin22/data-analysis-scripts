@@ -1,6 +1,6 @@
 
 # o
-  Title: Suggestion for Comitashboard U nhancement
+  Title: Suggestion for Comitashboard U nhanceent
 
 Descriptio: > for tgreat wp! l
   
