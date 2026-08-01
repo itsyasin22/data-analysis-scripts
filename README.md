@@ -4,7 +4,7 @@
 
 Descriptio: > for tgreat wp! l
   
- Usin ircle DvelpeContrld Wl ane mn        
+ Usin ircle DvelpeContrld Wl ne mn        
     
 Using Circle Develr Cotrolled Wallets to  USDC
 
