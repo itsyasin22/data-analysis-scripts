@@ -2,7 +2,7 @@
 # o
   Title: Suggestion for Comitashboard U nhanceent
 
-Descriptio: > for tgreat wp! l
+Descriptio: r tgreat wp! l
   
  Usin ircle DvelpeContrld Wl ne mn        
     
