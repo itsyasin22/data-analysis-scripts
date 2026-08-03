@@ -6,7 +6,7 @@ Descriptio: r tgreat wp! l
   
  Usin ircle DvelpeContrld Wl ne mn        
     
-Using Circle Develr otrolled Wallets to  USDC
+Using Circle Develr otrolled Walletto  USDC
 
 Event Relay: Gateway withlockrdar
 
