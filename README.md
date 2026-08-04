@@ -6,7 +6,7 @@ Descriptio: r tgreap! l
   
  Usin ircle DvelpeContrld Wl ne mn        
     
-Using Circle Develotrolled Walletto  USDC
+Using Circle Develotrolled.;.;p[alletto  USDC
 
 Event Relay: Gateway withlockrdar
 
