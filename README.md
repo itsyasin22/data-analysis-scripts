@@ -1,6 +1,6 @@
 
 # o
-  Title: Suggestion for Comitashboard U nhanceent
+  Title: Suggestion for Cotashboard U nhanceent
 
 Descriptio: r tgreap! l
   
