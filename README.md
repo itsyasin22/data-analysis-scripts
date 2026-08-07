@@ -5,8 +5,7 @@
 Descriptio: r tgreap! l
   
  Usin ircle DvelpeContrld Wl ne      
-    
-Using Circle Develotrolled.;.;p[alletto  USDC
+     USDC
 oop
 Event Relay: Gateway withlockrdar
 
