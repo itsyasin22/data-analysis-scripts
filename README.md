@@ -7,7 +7,7 @@ Descriptio: r tgreap! l
  Usin ircle DvelpeContrld Wl      
      USDC
 oop
-Event Relay: Gateway withlockrdar
+Event Relay: Gateway 
 
 Event Replay: Day One Architect- Hinkal
 
