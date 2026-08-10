@@ -1,6 +1,6 @@
 
 # o
-  Title: Suggestion for Cotashboard U nhanceent
+  Title: Suggestion for Cotashboard U 
 
 Descriptio: r tgreap! l
   
