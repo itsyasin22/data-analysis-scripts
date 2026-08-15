@@ -1,8 +1,7 @@
 
 # o
   Title: Suggestion for Cotashboard U 
-
-Descriptio: r tgreap! l
+ l
   
  Usin ircle DvelpeCon     
      USDC
