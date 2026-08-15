@@ -7,7 +7,7 @@ Descriptio: r tgreap! l
  Usin ircle DvelpeCon     
      USDC
 oop
-Event Relay: Gaty 
+Event Relay:ty 
 Event Replay: Day One Architect- Hinkal
 
 Using Circle Developer Controlled Wallets toend and  USDC
