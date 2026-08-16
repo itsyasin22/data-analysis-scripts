@@ -7,7 +7,7 @@
      USDC
 oop
 Event Relay:ty 
-Event Replay: Day One Architect- Hinkal
+Event Replay: Day One - Hinkal
 
 Using Circle Developer Controlled Wallets toend and  USDC
 
