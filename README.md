@@ -3,7 +3,7 @@
   Title: Suggestion for Cotashboard U 
  l
   
- Usin ircle DvelpeCon     
+ Usin ircle      
      USDC
 oop
 Event Relay:ty 
