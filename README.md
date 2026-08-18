@@ -9,7 +9,7 @@ oop
 Event Relay:ty 
 Event Replay: Day One - Hinkal
 
-Using Circle Developer Controlled Wallets toend and  USDC
+Using Circle Developer Controlled llets toend and  USDC
 
 Circle Developer Grants: From idea to funded
  
