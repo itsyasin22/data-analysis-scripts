@@ -7,7 +7,7 @@
      USDC
 oop
 Event Relay:ty 
-Event Replay: Day One - Hinkal
+Event Replay: Day One -
 
 Using Circle Developerontrolled llets toend and  USDC
 
