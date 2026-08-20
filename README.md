@@ -7,8 +7,7 @@
      USDC
 oop
 Event Relay:ty 
-Event Replay: Daye -
-
+Event Replay: Daye
 Using Circle Developerontlled llets toend and  USDC
 
 Circle Developer Grants: From idea to funded
