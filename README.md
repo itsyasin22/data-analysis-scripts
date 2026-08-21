@@ -8,7 +8,7 @@
 oop
 Event Relay:ty 
 Event Replay: Daye
-Using Circle Developerontlled llets toend and  USDC
+Using Circle Developerontlled llets toend and  US
 
 Circle Developer Grants: From idea to funded
  
