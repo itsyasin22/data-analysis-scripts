@@ -1,6 +1,6 @@
 
 # o
-  Title: Suggestion for Cotashboard U 
+  Title: Suggestion for Cotash
  l
   
  Usile      
