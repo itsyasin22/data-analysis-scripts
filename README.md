@@ -8,7 +8,7 @@
 oop
 Event Rela
 Event Replay: e
-Using Circle Developerontlled llets toend and  US
+Using Circle Developerontlled llets toend and  U
 
 Circle Developer Grants: From idea to funded
  
