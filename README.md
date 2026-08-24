@@ -7,7 +7,7 @@
      USDC
 oop
 Event 
-Event Replay: e
+Event Repl
 Using Circle Developerontlled llets toend an
 
 Circle Developer Grants: From idea to funded
