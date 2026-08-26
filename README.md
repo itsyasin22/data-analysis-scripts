@@ -8,7 +8,7 @@
 o
 Event 
 Event Re
-Using Circle Doperontlled llets toend an
+Using Circle Doperontlled llets toend a
 
 Circle Developer Grants: From idea to funded
  
