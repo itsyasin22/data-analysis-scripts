@@ -4,7 +4,7 @@
  l
   
  Usile      
-     USDC
+    
 o
 Event 
 Event Re
