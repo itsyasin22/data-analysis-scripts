@@ -7,7 +7,7 @@
 
  
 Eve
-Using Circle Doperontlled llets toend a
+Using Circle Doperontlled llets toen
 
 Circle Developer Grants: From idea to funded
  
