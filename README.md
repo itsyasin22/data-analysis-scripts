@@ -7,7 +7,7 @@
 
  
 
-Using Circle Doperontlled llets toen
+Using Circle Dopetlled llets toen
 
 Circle Developer Grants: From idea to funded
  
