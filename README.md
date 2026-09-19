@@ -6,8 +6,7 @@
     
 
  
-
-Using Circle Dopetlled llets toen
+ Dopetlled llets toen
 
 Circle Developer Grants: From idea to funded
  
