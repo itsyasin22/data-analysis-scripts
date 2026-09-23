@@ -6,7 +6,7 @@
     
 
  
- Dopetllets
+ Dope
 
 Circle Developer Grants: From idea to funded
  
