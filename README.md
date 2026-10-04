@@ -8,7 +8,7 @@
  
 
 
-Circle Developer Grants: From idea to f
+cle Developer Grants: From idea to f
  
   Event Replay: Building an Agentic Economy on Arc with RSoft Agentic Bank
 
