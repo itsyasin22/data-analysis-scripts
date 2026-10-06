@@ -8,7 +8,7 @@
  
 
 
-cle Developer Grants: From idea t
+cle Developer Grants: From id
  
   Event Replay: Building an Agentic Economy on Arc with RSoft Agentic Bank
 
