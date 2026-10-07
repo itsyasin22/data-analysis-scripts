@@ -8,7 +8,7 @@
  
 
 
-cle Developer Grants: Frod
+cle Developer Grants: 
  
   Event Replay: Building an Agentic Economy on Arc with RSoft Agentic Bank
 
