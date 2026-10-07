@@ -8,7 +8,7 @@
  
 
 
-cle Developer Grants: 
+cle Developer Gran 
  
   Event Replay: Building an Agentic Economy on Arc with RSoft Agentic Bank
 
