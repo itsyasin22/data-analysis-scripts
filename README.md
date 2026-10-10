@@ -8,7 +8,7 @@
  
 
 
-cle veloper Gr
+cle 
  
   Event Replay: Building an Agentic Economy on Arc with RSoft Agentic Bank
 
